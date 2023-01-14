@@ -4,8 +4,8 @@
 
 # Requirements
 
-mongodb
-express.js
-node.js
-Postman (although I've used thunder client for sake of creating this API, but highly recommended to use Postman)
-IDE
+mongodb <br>
+express.js <br>
+node.js <br>
+Postman (although I've used thunder client for sake of creating this API, but highly recommended to use Postman) <br>
+IDE <br>
