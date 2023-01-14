@@ -18,7 +18,7 @@ Content-Type: application/json
     "detail":"random",
     "price":"00012",
     "hero":"OMG This just came out now!!!!!!!!",
-    "image":"http://placehold.it/940x300/999/CCCccC"
+    "image":"http://notnue.github.io"
 }
 
 ### UPDATE Item
